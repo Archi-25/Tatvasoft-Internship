@@ -6,3 +6,5 @@ Day2 - Introduction to Angular : Learnt about angular, focusing on componets, mo
 Day3 - Introduction to .Net core web API, Swagger UI and understand n-layer architecture, Created some APIs.
 
 Day4- Understand Code First Approach , Understand LINQ, Understand how to write LINQ queries with Code First Approach.
+
+Day5- Difference between Authorization and Authentication. Applied authentication in sign in and authorization while accessing data with the help of Book API , using JWT service.
